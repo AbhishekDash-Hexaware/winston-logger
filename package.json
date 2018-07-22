@@ -1,0 +1,23 @@
+{
+  "name": "winston-logger",
+  "version": "1.0.0",
+  "description": "boiler plate for easy implementation of winston logger",
+  "main": "app.js",
+  "dependencies": {
+    "log4js": "^2.5.3",
+    "request": "^2.83.0",
+    "winston": "^2.4.0",
+    "winston-daily-rotate-file": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "winstaon\u001b[D\u001b[D\u001b[Con",
+    "logger",
+    "simple"
+  ],
+  "author": "abhishek dash",
+  "license": "ISC"
+}
